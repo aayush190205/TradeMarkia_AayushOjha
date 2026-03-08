@@ -27,8 +27,7 @@ A high-performance, first-principles semantic search engine built on the 20 News
   * [`GET /cache/stats`](#get-cachestats)
   * [`DELETE /cache`](#delete-cache)
 * [Example outputs & terminal logs](#example-outputs--terminal-logs)
-* [Troubleshooting](#troubleshooting)
-* [Contributing and license](#contributing-and-license)
+   * [Screenshots](#screenshots)
 
 ---
 
@@ -249,7 +248,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"query":"best GPU for ML
 ## Screenshots 
 
 ### Docker Container Running
-![Docker Container Output](./screenshots/docker_container.png)
+![Docker Container Output](./screenshots/docker_container.jpg)
 ### GET /cache/stats API Response
 ![Cache Stats](./screenshots/get_cache_stats.jpg)
 
