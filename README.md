@@ -246,32 +246,11 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"query":"best GPU for ML
 
 
 
-
 ## Screenshots 
 
-### Example
-
-```markdown
 ### Docker Container Running
 ![Docker Container Output](./screenshots/docker_container.png)
-
-### POST /query API Response
-![POST API Result](./screenshots/post_query_result.jpg)
-
 ### GET /cache/stats API Response
-![Cache Stats](./screenshots/get_cache_stats.j[g])
-
-### DELETE /cache API Response
-![Delete Cache Result](./screenshots/delete_cache.jpg)
-
-### DOCKER CONTAINER
-![Engine Training Terminal](./screenshots/docker.jpg)
-```
-
-If screenshots are hosted externally (e.g., GitHub Issues, Imgur, or Google Drive), you can also embed them using direct links:
-
-```markdown
-![Docker Output](https://your-image-link.com/docker_output.png)
-```
+![Cache Stats](./screenshots/get_cache_stats.jpg)
 
 
