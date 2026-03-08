@@ -1,0 +1,20 @@
+# Python Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datasets and Generated ML Artifacts
+# (These are generated locally and are too large for GitHub)
+20_newsgroups/
+data/
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
